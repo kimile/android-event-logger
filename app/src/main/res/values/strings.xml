@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Event Logger</string>
+    <string name="acceleration">Aceleration</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

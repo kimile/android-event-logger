@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="acceleration" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">70sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:textColor">#ff631206</item>
+    </style>
+
+    <style name="stop_watch" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">70sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:textColor">#ff152563</item>
+    </style>
+
+
+
+    <style name="acceleration_before" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">60sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:textColor">#ff2c2c2c</item>
+    </style>
+
+    <style name="xyz" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:textColor">#ff2c2c2c</item>
+    </style>
+
+</resources>
